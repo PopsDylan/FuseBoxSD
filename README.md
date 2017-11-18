@@ -1,5 +1,7 @@
 # FuseBoxSD
 
+![FuseBoxSD](images/FuseBoxSD.png)
+
 The FuseBoxSD 3D printer is derived from the [FB2020 Plus by AxMod3DPrint](http://github.com/AxMod3DPrint/FB2020). 
 
 Changes from the FB2020 Plus include
