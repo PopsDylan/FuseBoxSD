@@ -1,5 +1,19 @@
 # FuseBoxSD
-The repository for the FuseBoxSD CoreXY 3D printer
+
+The FuseBoxSD 3D printer is derived from the [FB2020 Plus by AxMod3DPrint]( https://github.com/AxMod3DPrint/FB2020 ). 
+
+Changes from the FB2020 Plus include
+* Metal brackets replace printed brackets
+* The carriage and idlers have been redesigned
+* The printed parts for the bed have been modified to fit the heatbed
+* Many of the other printed parts have been modified for M5 screws
+* The controller runs Smoothieware
+* A Raspberry Pi 3 is included, for OctoPi
+* A complete model is provided, in Fusion360 and STEP formats
+
+You will need to add an extruder. We have been using the [Belted Extruder v4 by dintid]( https://www.thingiverse.com/thing:2527297 ).
+
+
 
 Copyright PopsDylan 2017.
 
