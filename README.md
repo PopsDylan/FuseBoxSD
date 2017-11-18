@@ -1,6 +1,6 @@
 # FuseBoxSD
 
-The FuseBoxSD 3D printer is derived from the [FB2020 Plus by AxMod3DPrint](github.com/AxMod3DPrint/FB2020). 
+The FuseBoxSD 3D printer is derived from the [FB2020 Plus by AxMod3DPrint](http://github.com/AxMod3DPrint/FB2020). 
 
 Changes from the FB2020 Plus include
 * Metal brackets replace printed brackets
@@ -11,7 +11,7 @@ Changes from the FB2020 Plus include
 * A Raspberry Pi 3 is included, for OctoPi
 * A complete model is provided, in Fusion 360 and STEP formats
 
-You will need to provide a Bowden extruder. We have been using the [Belted Extruder v4 by dintid](www.thingiverse.com/thing:2527297).
+You will need to provide a Bowden extruder. We have been using the [Belted Extruder v4 by dintid](http://www.thingiverse.com/thing:2527297).
 
 Copyright PopsDylan 2017.
 
